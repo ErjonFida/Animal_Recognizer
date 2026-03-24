@@ -3,7 +3,7 @@
 This project trains a custom Convolutional Neural Network (CNN) from scratch using PyTorch to recognize images of 15 categories of animals.
 
 ## Dataset
-The model is trained on the publicly available Kaggle Animal data dataset, which should be located in the `Kaggle_Animal_data/` directory.
+The model is trained on the publicly available Kaggle Animal data dataset. (https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset)
 
 ## Model Architecture
 The primary model (`SimpleCnn`) uses a custom deep CNN architecture:
